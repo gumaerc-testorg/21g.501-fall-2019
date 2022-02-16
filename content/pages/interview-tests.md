@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Interview Tests
 uid: 09072135-f776-5beb-c2ef-ad51c0c3180c
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5a6705c6-f463-d63d-785c-de1a2ac69c32
 title: A Focus on Communication
 uid: 43e6af41-0732-f42f-4250-e9f186c50c96
