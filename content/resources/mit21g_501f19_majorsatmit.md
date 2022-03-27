@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Interview Tests
 parent_type: CourseSection
+parent_uid: 09072135-f776-5beb-c2ef-ad51c0c3180c
 resourcetype: Document
 title: MajorsAtMIT
 uid: 2b5b0bbc-ffa1-0b26-4a89-127cf7199300
