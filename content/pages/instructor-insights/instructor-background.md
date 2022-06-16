@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, instructors Takako Aikawa, Wakana Maekawa, and Masami
+  Ikeda-Lamm reflect on what brought each of them to language teaching.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

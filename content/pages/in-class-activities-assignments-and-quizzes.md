@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides the class schedule and summary of in-class activities
+  for the MIT course 21G.501 Japanese I, Fall 2019 taught by Takako Aikawa, Masami
+  Ikeka-Lamm, Wakana Maekawa, and Emiko Rafique.
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-Class Activities, Assignments, and Quizzes
@@ -65,7 +68,7 @@ _Week 1_
 {{< tdopen >}}
 
 
-*   Review [Classroom Instructions, Greetings, and Useful Expressions (PDF)]({{< baseurl >}}/resources/mit21g_501f19_ses02) introduced during class in Session 1.
+*   Review {{% resource_link 8c1eb3f5-8d9c-3feb-b174-f04f1b54e259 "Classroom Instructions, Greetings, and Useful Expressions (PDF)" %}} introduced during class in Session 1.
 *   Learn "Greetings and Useful Expressions" in \[G\] pp. 34–37.
 *   Read "Introduction" of the textbook in \[G\] pp. 18–23.
 *   Read "Japanese Writing System" in \[G\] pp. 24–31 in the introduction section of the textbook.
@@ -100,7 +103,7 @@ _Week 2_
 
 1.  Read Lesson 1 Grammar and Expression Notes 2 in \[G\] pp. 42–47.
 2.  Prepare for Lesson 1 Vocabulary Quiz (VQ) 1—Memorize the vocabulary items (romanization) in Lesson 1 in \[G\] p. 40.
-3.  Memorize the assigned Hiragana. You may use \[GW\] p. 117. You don't need to memorize the vocabulary there. Check the [Related Resources]({{< baseurl >}}/pages/related-resources) section for additional information you may find useful!
+3.  Memorize the assigned Hiragana. You may use \[GW\] p. 117. You don't need to memorize the vocabulary there. Check the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section for additional information you may find useful!
 
 
 {{< tdclose >}}
@@ -126,7 +129,7 @@ Lesson 1 Grammar
 
 1.  Prepare for Lesson 1 VQ 2 in \[G\] p. 41.
 2.  Practice the assigned drills in Class Activities. Use Google Chrome as the web browser to complete this assignment. Record your voice and compare with teacher's model.
-3.  Memorize the assigned Hiragana. You may use \[GW\] p. 118 or additional material in the [Related Resources]({{< baseurl >}}/pages/related-resources) section.
+3.  Memorize the assigned Hiragana. You may use \[GW\] p. 118 or additional material in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section.
 
 
 {{< tdclose >}}
@@ -154,8 +157,8 @@ Lesson 1 Drill (1)
 
 
 1.  Practice the assigned drills in Class Activities.
-2.  Memorize the assigned Hiragana. You should use online study material in the [Related Resources]({{< baseurl >}}/pages/related-resources) section as well as \[GW\] p. 119.
-3.  Hiragana Quiz 1 will be given in next session, so make sure to practice how to read and write hiragana up to "ho" by next session. Practice sheets and other materials are available in the [Related Resources]({{< baseurl >}}/pages/related-resources) section.
+2.  Memorize the assigned Hiragana. You should use online study material in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section as well as \[GW\] p. 119.
+3.  Hiragana Quiz 1 will be given in next session, so make sure to practice how to read and write hiragana up to "ho" by next session. Practice sheets and other materials are available in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section.
 
 
 {{< tdclose >}}
@@ -182,7 +185,7 @@ Lesson 1 Drill (2)
 
 
 1.  Practice the assigned drills assigned in class.
-2.  Memorize the assigned Hiragana. Use online material in [Related Resources]({{< baseurl >}}/pages/related-resources) section as well as \[GW\] p. 120.
+2.  Memorize the assigned Hiragana. Use online material in {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section as well as \[GW\] p. 120.
 
 
 {{< tdclose >}}
@@ -192,7 +195,7 @@ Lesson 1 Drill (2)
 Lesson 1 Drill (3)
 
 *   Hiragana Quiz 1 ("a"–"ho"). You will be asked to provide hiragana for romanization or vice the versa.
-*   [Majors (PDF)]({{< baseurl >}}/resources/mit21g_501f19_majorsatmit)
+*   {{% resource_link 2b5b0bbc-ffa1-0b26-4a89-127cf7199300 "Majors (PDF)" %}}
 *   [Occupation, Age, Time (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
 *   [Hiragana ("ma"–"yo")](http://web.mit.edu/21f.501/www/hiragana.html)
 
@@ -225,7 +228,7 @@ _Week 3_
 Lesson 1 Drill (4)
 
 *   [Family (under "Describing People")](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [In-group/Out-group Family Terms (learn the terms, PDF)]({{< baseurl >}}/resources/mit21g_501f19_ses07)
+*   {{% resource_link 41378af4-9fa7-6b0c-7009-edfa4c07f1fc "In-group/Out-group Family Terms (learn the terms, PDF)" %}}
 *   [Age (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
 *   [Majors, Time (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
 *   [Phone Number (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
@@ -359,7 +362,7 @@ Lesson 2 Drill (1)
 
 
 1.  Practice the assigned drills in Class Activities.
-2.  Study for Hiragana Quiz. More resources are provided in the [Related Resources]({{< baseurl >}}/pages/related-resources) section.
+2.  Study for Hiragana Quiz. More resources are provided in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section.
 3.  Read explanation on Katakana in \[G\] pp. 28–30.
 
 
@@ -386,7 +389,7 @@ Lesson 2 Drill (2)
 
 
 1.  Practice the assigned drills in Class Activities.
-2.  Practice the assigned Katakana with \[GW\] p. 124 and online Katakana material in [Related Resources]({{< baseurl >}}/pages/related-resources) section.
+2.  Practice the assigned Katakana with \[GW\] p. 124 and online Katakana material in {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section.
 3.  Do homework (\[GW\] pp. 21–22)
 
 
@@ -449,7 +452,7 @@ Lesson 2 Drill (4)
 
 1.  Prepare for Katakana Quiz.
 2.  Practice [Dialogues](http://web-cert.mit.edu/21f.501/www/audio.html).
-3.  Memorize the assigned Katakana. You should use online Katakana material in the [Related Resources]({{< baseurl >}}/pages/related-resources) section as well as Work \[GW\] p. 126.
+3.  Memorize the assigned Katakana. You should use online Katakana material in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section as well as Work \[GW\] p. 126.
 
 
 {{< tdclose >}}
@@ -673,7 +676,7 @@ Lesson 3 Drill (5)
 
 *   Dialogues in \[G\] pp. 84–85 (You do not have to memorize the dialogues but read them until you understand all lines.)
 *   Overall Review
-*   Katakana Quiz 2 (all) with study material provided in the [Related Resources]({{< baseurl >}}/pages/related-resources) section, in the following format:
+*   Katakana Quiz 2 (all) with study material provided in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section, in the following format:
 
 (1) Katakana to Romanization and original words in English
 
@@ -697,7 +700,7 @@ Prepare for the Lesson 3 Quiz by doing the following drills and reviewing the gr
 1.  [Listening Comprehension](http://web.mit.edu/21f.501/www/review.html)
 2.  [Situational Usage](http://web.mit.edu/21f.501/www/review.html)
 3.  Lesson 3 Grammar
-4.  Hiragana and Katakana (use material in the [Related Resources]({{< baseurl >}}/pages/related-resources) section) 
+4.  Hiragana and Katakana (use material in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section) 
 
 
 {{< tdclose >}}
@@ -912,7 +915,7 @@ Lesson 4 Drill (4)
 Lesson 4 Drill (5)
 
 *   [Application Exercises](http://web.mit.edu/21f.501/www/review.html)
-*   [Particle Exercise](http://web.mit.edu/21f.501/www/review.html) (Additional Particle Exercises are available in the [Related Resources]({{< baseurl >}}/pages/related-resources) section)
+*   [Particle Exercise](http://web.mit.edu/21f.501/www/review.html) (Additional Particle Exercises are available in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section)
 *   [Kanji Practice](http://genki.japantimes.co.jp/self/kanji-reading-practice)
 *   Review [Location](http://web.mit.edu/21f.501/www/review.html)
 *   Days/Weeks/Months/Years (review)
@@ -1350,7 +1353,7 @@ Lesson 6 Drill (6)
 *   [Asking Ways](http://web.mit.edu/21f.501/www/online_drills_1.html) (review)
 *   \[G\] Lesson 6 Reading on pp. 315–316
 
-\*Start preparing for the Final exam and Interview Test 2 with Particle Exercises and Lessons 4–6 Grammar Summary provided in the [Related Resources]({{< baseurl >}}/pages/related-resources) section, as well as the Interview Test Study Guide provided in the [Interview Tests]({{< baseurl >}}/pages/interview-tests) section.
+\*Start preparing for the Final exam and Interview Test 2 with Particle Exercises and Lessons 4–6 Grammar Summary provided in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section, as well as the Interview Test Study Guide provided in the {{% resource_link 09072135-f776-5beb-c2ef-ad51c0c3180c "Interview Tests" %}} section.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1361,7 +1364,7 @@ Lesson 6 Drill (6)
 {{< tdopen >}}
 
 
-\*Start preparing for the Final exam and Interview Test 2 with Particle Exercises and Lessons 4–6 Grammar Summary provided in the [Related Resources]({{< baseurl >}}/pages/related-resources) section, as well as the Interview Test Study Guide provided in the [Interview Tests]({{< baseurl >}}/pages/interview-tests) section.
+\*Start preparing for the Final exam and Interview Test 2 with Particle Exercises and Lessons 4–6 Grammar Summary provided in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section, as well as the Interview Test Study Guide provided in the {{% resource_link 09072135-f776-5beb-c2ef-ad51c0c3180c "Interview Tests" %}} section.
 
 
 {{< tdclose >}}
@@ -1384,7 +1387,7 @@ Overall Review
 47
 {{< tdclose >}}
 {{< tdopen >}}
-Review Grammatical Patterns and Vocabulary in Lesson 1–6 (The focus will be on Lessons 4–6). Read the Interview Study Guide, provided in the [Interview Tests]({{< baseurl >}}/pages/interview-tests) section, very carefully and practice speaking with your classmate(s).
+Review Grammatical Patterns and Vocabulary in Lesson 1–6 (The focus will be on Lessons 4–6). Read the Interview Study Guide, provided in the {{% resource_link 09072135-f776-5beb-c2ef-ad51c0c3180c "Interview Tests" %}} section, very carefully and practice speaking with your classmate(s).
 {{< tdclose >}}
 {{< tdopen >}}
 

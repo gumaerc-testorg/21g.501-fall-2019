@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Takako Aikawa, Wakana Maekawa, and Masami Ikeda-Lamm
+  describe how they encourage students to overcome their self-consciousness when speaking
+  Japanese in class.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

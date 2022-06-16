@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Takako Aikawa, Wakana Maekawa, and Masami Ikeda-Lamm
+  discuss their strategy for teaching students the three separate writing systems
+  in Japanese.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

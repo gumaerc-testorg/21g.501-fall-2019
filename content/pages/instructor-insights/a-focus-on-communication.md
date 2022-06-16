@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Takako Aikawa, Wakana Maekawa, and Masami Ikeda-Lamm
+  explain how their teaching is orientated toward helping students gain an active
+  command of the Japanese language, with the goal of helping students communicate
+  with Japanese-speaking people.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
