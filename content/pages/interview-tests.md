@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the quizzes for the MIT course 21G.501 Japanese I,
+  Fall 2019 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa, and Emiko
+  Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Interview Tests
 uid: 09072135-f776-5beb-c2ef-ad51c0c3180c
 ---

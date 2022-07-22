@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the course policy for the MIT course 21G.501 Japanese
+  I, Fall 2019 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa, and Emiko
+  Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: eeacac5f-c410-ab3b-e751-ed9d55e17d5b
 ---

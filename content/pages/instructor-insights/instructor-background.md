@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, instructors Takako Aikawa, Wakana Maekawa, and Masami
+  Ikeda-Lamm reflect on what brought each of them to language teaching.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5a6705c6-f463-d63d-785c-de1a2ac69c32
 title: Instructor Background
 uid: f2f4d17b-fbac-d7d1-0986-b66c34f7204c

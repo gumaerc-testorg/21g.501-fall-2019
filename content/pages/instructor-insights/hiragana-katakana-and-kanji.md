@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Takako Aikawa, Wakana Maekawa, and Masami Ikeda-Lamm
+  discuss their strategy for teaching students the three separate writing systems
+  in Japanese.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5a6705c6-f463-d63d-785c-de1a2ac69c32
 title: Hiragana, Katakana, and Kanji
 uid: 3bf9d9f5-abe3-c769-557f-7dd6a874eea0

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: "In this section, Takako Aikawa, Wakana Maekawa, and Masami Ikeda-Lamm\
+  \ tell how they adapted 21G.501 Japanese I in fall 2020, and how they are likely\
+  \ to continue developing the course to meet future students\u2019 needs."
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5a6705c6-f463-d63d-785c-de1a2ac69c32
 title: Trying Something New
 uid: a641d405-4732-533a-a26c-3c15025e3def

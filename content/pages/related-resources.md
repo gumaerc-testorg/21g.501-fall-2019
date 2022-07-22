@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the supplemental resources for the MIT course 21G.501
+  Japanese I, Fall 2019 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa,
+  and Emiko Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 8a367e2f-3269-222c-f41f-8250db29e62b
 ---

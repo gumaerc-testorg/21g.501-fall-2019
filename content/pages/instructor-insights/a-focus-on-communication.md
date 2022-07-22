@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: In this section, Takako Aikawa, Wakana Maekawa, and Masami Ikeda-Lamm
+  explain how their teaching is orientated toward helping students gain an active
+  command of the Japanese language, with the goal of helping students communicate
+  with Japanese-speaking people.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5a6705c6-f463-d63d-785c-de1a2ac69c32
 title: A Focus on Communication
 uid: 43e6af41-0732-f42f-4250-e9f186c50c96
