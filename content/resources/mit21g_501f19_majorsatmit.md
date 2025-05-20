@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21g-501-japanese-i-fall-2019/2b5b0bbcffa10b264a89127cf7199300_MIT21g_501f19_MajorsAtMIT.pdf
+file: /courses/21g-501-japanese-i-fall-2019/2b5b0bbcffa10b264a89127cf7199300_MIT21g_501f19_MajorsAtMIT.pdf
 file_size: 117161
 file_type: application/pdf
 learning_resource_types: []
