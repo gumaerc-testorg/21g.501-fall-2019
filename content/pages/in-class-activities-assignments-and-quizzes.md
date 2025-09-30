@@ -114,7 +114,7 @@ Lesson 1 Grammar
 
 *   Lesson 1 Grammar Session
 *   Lesson 1 VQ 1. There will be ten questions in this quiz, with five Japanese to English and five from English to Japanese (in Roman letters) in the beginning of the class.
-*   [Hiragana ("a"–"ko")](http://web.mit.edu/21f.501/www/hiragana.html)
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana (\"a\"–\"ko\")" %}}
 
 
 {{< tdclose >}}
@@ -139,11 +139,11 @@ Lesson 1 Grammar
 Lesson 1 Drill (1)
 
 *   Lesson 1 VQ 2
-*   [Numbers](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Time](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Telephone Numbers](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Numbers" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Time" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Telephone Numbers" %}}
 *   Greetings (review)
-*   [Hiragana ("sa"–"to")](http://web.mit.edu/21f.501/www/hiragana.html)
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana (\"sa\"–\"to\")" %}}
 
 
 {{< tdclose >}}
@@ -167,11 +167,11 @@ Lesson 1 Drill (1)
 
 Lesson 1 Drill (2)
 
-*   [Occupation](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Age](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Numbers, Time, Telephone Numbers (work on all the drills)](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Occupation" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Age" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Numbers, Time, Telephone Numbers (work on all the drills)" %}}
 *   Greetings (review)
-*   [Hiragana ("na"–"ho")](http://web.mit.edu/21f.501/www/hiragana.html)
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana (\"na\"–\"ho\")" %}}
 
 
 {{< tdclose >}}
@@ -196,8 +196,8 @@ Lesson 1 Drill (3)
 
 *   Hiragana Quiz 1 ("a"–"ho"). You will be asked to provide hiragana for romanization or vice the versa.
 *   {{% resource_link 2b5b0bbc-ffa1-0b26-4a89-127cf7199300 "Majors (PDF)" %}}
-*   [Occupation, Age, Time (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Hiragana ("ma"–"yo")](http://web.mit.edu/21f.501/www/hiragana.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Occupation, Age, Time (review)" %}}
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana (\"ma\"–\"yo\")" %}}
 
 
 {{< tdclose >}}
@@ -227,12 +227,12 @@ _Week 3_
 
 Lesson 1 Drill (4)
 
-*   [Family (under "Describing People")](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Family (under \"Describing People\")" %}}
 *   {{% resource_link 41378af4-9fa7-6b0c-7009-edfa4c07f1fc "In-group/Out-group Family Terms (learn the terms, PDF)" %}}
-*   [Age (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Majors, Time (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Phone Number (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Hiragana](http://web.mit.edu/21f.501/www/hiragana.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Age (review)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Majors, Time (review)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Phone Number (review)" %}}
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +257,7 @@ Lesson 1 Drill (5)
 
 *   Dialogues in \[G\] pp. 38–39
 *   Overall Review
-*   [Hiragana](http://web.mit.edu/21f.501/www/hiragana.html)—voiced and semi-voiced sounds (Hiragana with Diacritical Marks) and consonant +/y/+vowels. Refer to "Transcribing Contracted Sounds" in \[G\] pp. 25–26.
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana" %}}—voiced and semi-voiced sounds (Hiragana with Diacritical Marks) and consonant +/y/+vowels. Refer to "Transcribing Contracted Sounds" in \[G\] pp. 25–26.
 
 
 {{< tdclose >}}
@@ -271,8 +271,8 @@ Lesson 1 Drill (5)
 
 
 1.  Review Lesson 1 Grammar, including the additional grammar such as in-group family terms.
-2.  Review Telephone Numbers, Time and Age in \[G\] p. 57 and do the [online drills](http://web.mit.edu/21f.501/www/review.html).
-3.  Study [Situation Usage](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=282) and Listening Comprehension online.
+2.  Review Telephone Numbers, Time and Age in \[G\] p. 57 and do the {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "online drills" %}}.
+3.  Study {{% resource_link "9ca076d4-19c1-4dc5-aa29-54e2a8d896e8" "Situation Usage" %}} and Listening Comprehension online.
 
 
 {{< tdclose >}}
@@ -288,9 +288,9 @@ Lesson 1 Drill (6)
 
 (2) Write down the time you hear.
 
-(3) Based on the conversation you hear, answer the questions in English (Same format as [Listening Comprehension Exercise](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=369)).
+(3) Based on the conversation you hear, answer the questions in English (Same format as {{% resource_link "1d158479-7f6f-44da-9062-8416469cbbc2" "Listening Comprehension Exercise" %}}).
 
-(4) What would you say in Japanese in the following situation? Write your answers in Roman letters (same format as [Situational Usage Exercise](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=282)).
+(4) What would you say in Japanese in the following situation? Write your answers in Roman letters (same format as {{% resource_link "9ca076d4-19c1-4dc5-aa29-54e2a8d896e8" "Situational Usage Exercise" %}}).
 
 
 {{< tdclose >}}
@@ -345,10 +345,10 @@ Lesson 2 Grammar
 Lesson 2 Drill (1)
 
 *   Lesson 2 VQ 2: "Places," "Countries," "Majors," "Family," "Money Matters,"  and Expressions" in \[G\] p. 61
-*   [Kore/Are/Sore/Dore](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=269)
-*   [Prices](http://web.mit.edu/21f.501/www/online_drills_1.html) and [listening-3](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=266)
-*   [Items](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Hiragana](http://web.mit.edu/21f.501/www/hiragana.html)—double consonants and long vowels
+*   {{% resource_link "66174e83-10c7-48a5-afd4-a7fd07ac647e" "Kore/Are/Sore/Dore" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Prices" %}} and {{% resource_link "e66c7e87-7b3f-45c2-a888-0eeff99471b5" "listening-3" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Items" %}}
+*   {{% resource_link "c0ad17df-c85f-4999-9fa3-654b5fc4fe5f" "Hiragana" %}}—double consonants and long vowels
 
 
 {{< tdclose >}}
@@ -373,8 +373,8 @@ Lesson 2 Drill (1)
 Lesson 2 Drill (2)
 
 *   Hiragana Quiz 2 (all Hiragana, including all the rules such as double vowels/consonant and contracted sounds), in both formats of Hiragana to Romanization and Romanization to Hiragana
-*   Patterns ([Kono-series](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=269))
-*   [Numbers](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   Patterns ({{% resource_link "66174e83-10c7-48a5-afd4-a7fd07ac647e" "Kono-series" %}})
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Numbers" %}}
 *   Katakana introduction
 
 
@@ -400,9 +400,9 @@ Lesson 2 Drill (2)
 Lesson 2 Drill (3)
 
 *   Homework 1 due at the beginning of the class
-*   [Nouns (Dare no)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Kore-series, Kono-series (review) and the [これ、それ、あれ，どれ drill](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=415)
-*   [Katakana ("a"–"ko")](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Nouns (Dare no)" %}}
+*   Kore-series, Kono-series (review) and the {{% resource_link "eddfdab1-297c-4b49-ac67-65bba4733549" "これ、それ、あれ，どれ drill" %}}
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (\"a\"–\"ko\")" %}}
 
 
 {{< tdclose >}}
@@ -434,10 +434,10 @@ _Week 5_
 Lesson 2 Drill (4)
 
 *   Homework 2 due at the beginning of the class
-*   [Nouns (Dare no)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Nouns (Places)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Prices (review)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Katakana ("sa"–"to)](http://web.mit.edu/21f.501/www/katakana.html) and Exercises [1](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=397) and [2](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=398)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Nouns (Dare no)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Nouns (Places)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Prices (review)" %}}
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (\"sa\"–\"to)" %}} and Exercises {{% resource_link "4d391ed0-62d0-4db4-9495-0bcabe6c418b" "1" %}} and {{% resource_link "deb077d2-809c-471f-8e2f-abe7ea834e17" "2" %}}
 
 
 {{< tdclose >}}
@@ -451,7 +451,7 @@ Lesson 2 Drill (4)
 
 
 1.  Prepare for Katakana Quiz.
-2.  Practice [Dialogues](http://web-cert.mit.edu/21f.501/www/audio.html).
+2.  Practice {{% resource_link "c7047bf4-c89a-430b-a522-c1e3a1f12890" "Dialogues" %}}.
 3.  Memorize the assigned Katakana. You should use online Katakana material in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section as well as Work \[GW\] p. 126.
 
 
@@ -463,7 +463,7 @@ Lesson 2 Drill (5)
 
 *   Dialogues in \[G\] pp. 58–59
 *   Overall Review
-*   [Katakana ("na"–"ho")](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (\"na\"–\"ho\")" %}}
 *   Katakana Quiz 1 (ア–ト, "a"–"to"), including long vowels, double consonants, voiced and semi-voiced sounds, in the following format:
 
 (1) Romanization to Katakana
@@ -483,8 +483,8 @@ Lesson 2 Drill (5)
 
 Study for the Lesson 2 Quiz, including:
 
-1.  [Listening Comprehension](http://web.mit.edu/21f.501/www/review.html)
-2.  [Situational Usage](http://web.mit.edu/21f.501/www/review.html)
+1.  {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Listening Comprehension" %}}
+2.  {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Situational Usage" %}}
 3.  Lesson 2 Grammar
 
 
@@ -494,8 +494,8 @@ Study for the Lesson 2 Quiz, including:
 
 Lesson 2 Drill (6)
 
-*   [Overall Review](http://web.mit.edu/21f.501/www/review.html)
-*   [Katakana Review](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Overall Review" %}}
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana Review" %}}
 *   Lesson 2 Quiz in the following format:
 
 (1) Listening Comprehension: Number/Price and Conversation
@@ -525,7 +525,7 @@ Lesson 2 Drill (6)
 Lesson 3 Grammar
 
 *   Lesson 3 VQ 1 (all types of Verbs, Adjectives, Adverbs, Expressions in \[G\] p. 87)—Attention: In this lesson, we give the quiz on the words on the second page (p. 87) first. You are no longer allowed to write your answers (English to Japanese in Roman letters any more.)
-*   [Katakana ("ma"–"yo")](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (\"ma\"–\"yo\")" %}}
 
 
 {{< tdclose >}}
@@ -558,9 +558,9 @@ Lesson 3 Drill (1)
 
 *   Homework 3 due at the beginning of the class
 *   VQ 2 (\[G\] p. 86–87)
-*   [Verbs (Activities)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Patterns (Wh-question)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Katakana ("ra"–"n")](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Verbs (Activities)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Patterns (Wh-question)" %}}
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (\"ra\"–\"n\")" %}}
 
 
 {{< tdclose >}}
@@ -584,10 +584,10 @@ Lesson 3 Drill (1)
 Lesson 3 Drill (2)
 
 *   Homework 4 due the beginning of the class
-*   [Verbs (More on Activities)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Places](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Time](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Katakana (small "ya," "yu," and "yo")](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Verbs (More on Activities)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Places" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Time" %}}
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (small \"ya,\" \"yu,\" and \"yo\")" %}}
 
 
 {{< tdclose >}}
@@ -602,7 +602,7 @@ Lesson 3 Drill (2)
 
 1.  Practice the assigned drills in Class Activities.
 2.  Do homework 5 (\[GW\] p. 30).
-3.  Identify these [IT-related Katakana words](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=405).  
+3.  Identify these {{% resource_link "a3d2c49c-30c9-4143-8922-0de3fa8fb2c1" "IT-related Katakana words" %}}.  
      
 
 
@@ -613,10 +613,10 @@ Lesson 3 Drill (2)
 Lesson 3 Drill (3)
 
 *   Homework 5 due at the beginning of the class
-*   [Patterns (Frequency)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Patterns (Invitation)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Activities, Time](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Katakana (small "a," "i," "u," "e," and "o")](http://web.mit.edu/21f.501/www/katakana.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Patterns (Frequency)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Patterns (Invitation)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Activities, Time" %}}
+*   {{% resource_link "7df640e4-7344-440a-8b3d-afc7c9fb7ebe" "Katakana (small \"a,\" \"i,\" \"u,\" \"e,\" and \"o\")" %}}
 
 
 {{< tdclose >}}
@@ -631,7 +631,7 @@ Lesson 3 Drill (3)
 
 1.  Do Homework 6 (\[GW\] p. 29).
 2.  Review particles. Do the Lesson 3 Particle Exercise. No need to turn it in.
-3.  Identify these [food words](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=403) in Katakana.
+3.  Identify these {{% resource_link "907da40d-1e8a-4aa3-ba56-2d32470fcbd9" "food words" %}} in Katakana.
 4.  Read Kanji Introduction in \[G\] pp. 298–299.
 
 
@@ -642,8 +642,8 @@ Lesson 3 Drill (3)
 Lesson 3 Drill (4)
 
 *   Homework 6 due the beginning of the class
-*   Review [Number](http://web.mit.edu/21f.501/www/review.html)
-*   Review [Particles](http://web.mit.edu/21f.501/www/review.html)
+*   Review {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Number" %}}
+*   Review {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Particles" %}}
 *   Kanji Introduction in \[G\] pp. 298–299
 
 
@@ -665,7 +665,7 @@ _Week 7_
 
 1.  Practice Dialogues.
 2.  Prepare for Katakana Quiz.
-3.  Review [Particles](http://web.mit.edu/21f.501/www/review.html).
+3.  Review {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Particles" %}}.
 
 
 {{< tdclose >}}
@@ -697,8 +697,8 @@ Lesson 3 Drill (5)
 
 Prepare for the Lesson 3 Quiz by doing the following drills and reviewing the grammar and Kana.
 
-1.  [Listening Comprehension](http://web.mit.edu/21f.501/www/review.html)
-2.  [Situational Usage](http://web.mit.edu/21f.501/www/review.html)
+1.  {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Listening Comprehension" %}}
+2.  {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Situational Usage" %}}
 3.  Lesson 3 Grammar
 4.  Hiragana and Katakana (use material in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section) 
 
@@ -709,7 +709,7 @@ Prepare for the Lesson 3 Quiz by doing the following drills and reviewing the gr
 
 Lesson 3 Drill (6)
 
-*   [Overall Review](http://web.mit.edu/21f.501/www/review.html)
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Overall Review" %}}
 *   Lesson 3 Quiz (Lesson 3 Kanji not included), except for the listening part, you must write your answers in _Hiragana and Katakana_ (No Roman letters). If you use Kanji, you must write Hiragana reading above it or you won't receive any credit.
 
 
@@ -782,7 +782,7 @@ Lesson 4 Grammar
 
 1.  Prepare for Lesson 4 VQ 2.
 2.  Practice the assigned drills in Class Activities.
-3.  Practice Lesson 3 [Kanji (一二三四五六七八九十百千万円時)](http://genki.japantimes.co.jp/self/kanji-reading-practice)
+3.  Practice Lesson 3 {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Kanji (一二三四五六七八九十百千万円時)" %}}
 4.  Do Homework 7 (\[GW\] pp. 129-130).
 
 
@@ -794,10 +794,10 @@ Lesson 4 Drill (1)
 
 *   Lesson 4 VQ 2 (all vocabulary in \[G\] pp. 104–105, and Location Words on p. 106)
 *   Homework 7 due at the beginning of class
-*   [Verbs Formation (past)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Nouns Formation (past)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Days of Week](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Lesson 3 Kanji Reading](http://genki.japantimes.co.jp/self/kanji-reading-practice)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Verbs Formation (past)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Nouns Formation (past)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Days of Week" %}}
+*   {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Lesson 3 Kanji Reading" %}}
 
 
 {{< tdclose >}}
@@ -812,7 +812,7 @@ Lesson 4 Drill (1)
 
 1.  Practice the assigned drills in Class Activities.
 2.  Memorize Time Expression in \[G\] p. 127.
-3.  Practice Lesson 3 Kanji with [Genki Online](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+3.  Practice Lesson 3 Kanji with {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Genki Online" %}}.
 4.  Do Homework 8 (\[GW\] pp. 39–40).
 
 
@@ -823,9 +823,9 @@ Lesson 4 Drill (1)
 Lesson 4 Drill (2)
 
 *   Homework 8 due at the beginning of class
-*   [Verbs Formation (past tense)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Nouns Formation (past tense)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Days/Weeks/Months/Years](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Verbs Formation (past tense)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Nouns Formation (past tense)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Days/Weeks/Months/Years" %}}
 
 
 {{< tdclose >}}
@@ -846,7 +846,7 @@ _Week 9_
 
 1.  Practice the assigned drills in Class Activities (\*List of Days/Weeks/Months/Years available in \[G\] p. 127 will be included in Lesson 4 Quiz).
 2.  Do Homework 9 (\[GW\] pp. 36).
-3.  Prepare for [Lesson 3 Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) Quiz.
+3.  Prepare for {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Lesson 3 Kanji" %}} Quiz.
 4.  Read \[G\] Lesson 3 Reading and fill in the blanks on p. 301.
 
 
@@ -859,8 +859,8 @@ Lesson 4 Drill (3)
 *   Homework 9 due at the beginning of class
 *   Lesson 3 Kanji Quiz (\*Only the highlighted words in gray in \[G\] p. 298–299 will be on the quiz. You don't have to know other unlighted ones.)
 *   Lesson Reading in \[G\] p. 301
-*   [Location](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [arimasu/imasu](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Location" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "arimasu/imasu" %}}
 *   Review: Days/Weeks/Months/Years
 
 
@@ -887,9 +887,9 @@ Lesson 4 Drill (4)
 
 *   Homework 10 due at the beginning of class
 *   Dialogue
-*   [Time Duration](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Location](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Days/Weeks/Months/Years](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Time Duration" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Location" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Days/Weeks/Months/Years" %}}
 *   Lesson 4 Kanji Introduction (日本人月火水木金土曜上下中半)
 
 
@@ -904,7 +904,7 @@ Lesson 4 Drill (4)
 
 
 1.  Practice the assigned Drills in Class Activities.
-2.  Practice [Lessons 3 and 4 Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+2.  Practice {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Lessons 3 and 4 Kanji" %}}.
 3.  Review Time Expressions (\*List of Days/Weeks/Months/Years available in \[G\] p. 127 will be included in Lesson 4 Quiz).
 
 
@@ -914,10 +914,10 @@ Lesson 4 Drill (4)
 
 Lesson 4 Drill (5)
 
-*   [Application Exercises](http://web.mit.edu/21f.501/www/review.html)
-*   [Particle Exercise](http://web.mit.edu/21f.501/www/review.html) (Additional Particle Exercises are available in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section)
-*   [Kanji Practice](http://genki.japantimes.co.jp/self/kanji-reading-practice)
-*   Review [Location](http://web.mit.edu/21f.501/www/review.html)
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Application Exercises" %}}
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Particle Exercise" %}} (Additional Particle Exercises are available in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section)
+*   {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Kanji Practice" %}}
+*   Review {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Location" %}}
 *   Days/Weeks/Months/Years (review)
 
 
@@ -931,8 +931,8 @@ Lesson 4 Drill (5)
 {{< tdopen >}}
 
 
-1.  Prepare Lesson 4 Quiz. Study [Listening Comprehension](http://web.mit.edu/21f.501/www/online_drills_1.html), [Situational Usage](http://web.mit.edu/21f.501/www/online_drills_1.html) and Lesson 4 Grammar.
-2.  Review Particles, including [Online Drills](http://web.mit.edu/21f.501/www/review.html) and Particle Exercise 2.
+1.  Prepare Lesson 4 Quiz. Study {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Listening Comprehension" %}}, {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Situational Usage" %}} and Lesson 4 Grammar.
+2.  Review Particles, including {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Online Drills" %}} and Particle Exercise 2.
 3.  Review Lesson 3 Kanji.
 
 
@@ -997,8 +997,8 @@ Lesson 5 Drill (1)
 
 *   Lesson 5 VQ 2 (Nouns, Adverbs and Other Expressions in \[G\] pp. 130–131
 *   Homework 11 due at the beginning of class
-*   [Adjectives](http://web.mit.edu/21f.501/www/online_drills_1.html) (present tense)
-*   [Suki/Kirai](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Adjectives" %}} (present tense)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Suki/Kirai" %}}
 
 
 {{< tdclose >}}
@@ -1023,8 +1023,8 @@ Do homework 12 (\[GW\] pp. 47-48).
 Lesson 5 Drill (2)
 
 *   Homework 12 due at the beginning of class
-*   [Adjectives](http://web.mit.edu/21f.501/www/online_drills_1.html) (present tense and past tense)
-*   Review [Suki/Kirai](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Adjectives" %}} (present tense and past tense)
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Suki/Kirai" %}}
 
 
 {{< tdclose >}}
@@ -1050,9 +1050,9 @@ Lesson 5 Drill (2)
 Lesson 5 Drill (3)
 
 *   Homework 13 due at the beginning of class
-*   [Counting](http://web.mit.edu/21f.501/www/review.html)
-*   [\-masyou](http://web.mit.edu/21f.501/www/review.html)
-*   [Adjectives](http://web.mit.edu/21f.501/www/review.html) (review)
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Counting" %}}
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "\-masyou" %}}
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Adjectives" %}} (review)
 *   Lesson 4 Kanji Practice
 
 
@@ -1075,7 +1075,7 @@ _Week 11_
 1.  Practice the assigned drills in Class Activities.
 2.  Do Homework 14 (\[GW\] p. 49-II,  p.50 odd #s (1, 3, 5, 7, and 9) and p. 51-II odd #s (1, 3, and 5). \*Use all the Kanji introduced up to Lesson 4.
 3.  Read \[G\] Lesson 4 Reading Practice (II 「おかあさんへのメモ」on p. 304. and III「メアリーさんのしゅうまつ」on p. 305) and answer the questions before class. The daily grade will be given based on your responses to content questions.
-4.  Prepare for Lesson 4 [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) Quiz. Only the highlighted words in gray will be on the quiz. You do not have to know other highlighted ones. 
+4.  Prepare for Lesson 4 {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Kanji" %}} Quiz. Only the highlighted words in gray will be on the quiz. You do not have to know other highlighted ones. 
 
 
 {{< tdclose >}}
@@ -1087,8 +1087,8 @@ Lesson 5 Drill (4)
 *   Homework 14 due at the beginning of class
 *   Lesson 4 Kanji Quiz
 *   \[G\] Lesson 4 Reading Practice II on p. 304 and III on p. 305
-*   [Application Exercise](http://web.mit.edu/21f.501/www/review.html)
-*   Review [Adjectives](http://web.mit.edu/21f.501/www/review.html), [\-masyou](http://web.mit.edu/21f.501/www/review.html), [Counting](http://web.mit.edu/21f.501/www/review.html)
+*   {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Application Exercise" %}}
+*   Review {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Adjectives" %}}, {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "\-masyou" %}}, {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Counting" %}}
 
 
 {{< tdclose >}}
@@ -1127,9 +1127,9 @@ Lesson 5 Drill (5)
 {{< tdopen >}}
 
 
-1.  Prepare for the Lesson 5 Quiz. Study [Listening Comprehension](http://web.mit.edu/21f.501/www/review.html), [Situational Usage](http://web.mit.edu/21f.501/www/review.html), and Lesson 5 Grammar.
-2.  Review Particles, including [Online Drills](http://web.mit.edu/21f.501/www/review.html) and Particle Exercises 3.
-3.  Review [Lesson 4 Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+1.  Prepare for the Lesson 5 Quiz. Study {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Listening Comprehension" %}}, {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Situational Usage" %}}, and Lesson 5 Grammar.
+2.  Review Particles, including {{% resource_link "7437df5c-2422-422e-b5b3-85386d2e0c95" "Online Drills" %}} and Particle Exercises 3.
+3.  Review {{% resource_link "cb6d7fe7-a44d-48cb-9dc9-653298ae5da6" "Lesson 4 Kanji" %}}.
 
 
 {{< tdclose >}}
@@ -1195,10 +1195,10 @@ Lesson 6 Grammar
 Lesson 6 Drill (1)
 
 *   Homework 15 due at the beginning of class
-*   [Patterns (Requests)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Verb (-te form)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Te-form Song (て形の歌)](https://www.youtube.com/watch?v=InOV35nt5FI)
-*   [Patterns (Describing two or more activities)](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Patterns (Requests)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Verb (-te form)" %}}
+*   {{% resource_link "2a4c48a2-befc-41ba-96b4-9dfced736f9e" "Te-form Song (て形の歌)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Patterns (Describing two or more activities)" %}}
 
 
 {{< tdclose >}}
@@ -1223,11 +1223,11 @@ Lesson 6 Drill (2)
 
 *   Homework 16 due at the beginning of class
 *   \[G\] Kanji Practice in p. 133
-*   [Patterns (Permission)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Verb (-te form)](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   [Te-form Song (て形の歌)](https://www.youtube.com/watch?v=InOV35nt5FI)
-*   [Prohibition](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Request](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Patterns (Permission)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Verb (-te form)" %}}
+*   {{% resource_link "2a4c48a2-befc-41ba-96b4-9dfced736f9e" "Te-form Song (て形の歌)" %}}
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Prohibition" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Request" %}}
 
 
 {{< tdclose >}}
@@ -1241,7 +1241,7 @@ Lesson 6 Drill (2)
 
 
 1.  Practice the assigned drills in Class Activities.
-2.  Practice [Lesson 5 Kanji](http://web.mit.edu/21f.501/www/online_drills_1.html).
+2.  Practice {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Lesson 5 Kanji" %}}.
 3.  Do Homework 17 (\[GW\] pp. 59–60). \*Use all the Kanji you have learned so far.
 4.  Read Lesson 5 Reading Practice (two postcards on pp. 309–310) and answer the questions.
 
@@ -1254,9 +1254,9 @@ Lesson 6 Drill (3)
 
 *   Homework 17 due at the beginning of class
 *   \[G\] Lesson 5 Reading p. 310
-*   [Providing Reasons](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Permission](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Prohibition](http://web.mit.edu/21f.501/www/online_drills_1.html) 
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Providing Reasons" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Permission" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Prohibition" %}} 
 
 
 {{< tdclose >}}
@@ -1288,8 +1288,8 @@ Lesson 6 Drill (4)
 
 *   Homework 18 due at the beginning of class
 *   Lesson 5 Kanji Quiz
-*   [Making Offers](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Describing Two or More Activities](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Making Offers" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Describing Two or More Activities" %}}
 *   \[G\] Lesson 6 Kanji Introduction pp. 312–313
 
 
@@ -1304,7 +1304,7 @@ Lesson 6 Drill (4)
 
 
 1.  Memorize Expressions in \[G\] p. 165.
-2.  Work on [Drill (Asking Ways)](http://web.mit.edu/21f.501/www/online_drills_1.html).
+2.  Work on {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Drill (Asking Ways)" %}}.
 3.  Read Dialogues carefully and make sure to familiarize yourwelf with the content of each dialogue very well.
 4.  Review Time Expressions.
 
@@ -1315,7 +1315,7 @@ Lesson 6 Drill (4)
 
 Lesson 6 Drill (5)
 
-*   [Asking Ways](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Asking Ways" %}}
 *   \[G\] Lesson 6 Dialogue on pp. 146–147
 *   Review \[G\] Time Expressions (Days/Weeks/Months/Years) and Time words on p. 127
 *   Review Location
@@ -1338,7 +1338,7 @@ _Week 14_
 
 
 1.  Read \[G\] Lesson 6 Reading and answer the questions before class.
-2.  Practice Directions and [Drill (Asking Ways)](http://web.mit.edu/21f.501/www/online_drills_1.html).
+2.  Practice Directions and {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Drill (Asking Ways)" %}}.
 3.  Review Adjectives. 
 4.  Do Homework 19 (\[GW\] p. 136). In addition to the new Kanji, use all the Kanji you have learned so far.
 
@@ -1350,7 +1350,7 @@ _Week 14_
 Lesson 6 Drill (6)
 
 *   Homework 19 due at the beginning of class.
-*   [Asking Ways](http://web.mit.edu/21f.501/www/online_drills_1.html) (review)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Asking Ways" %}} (review)
 *   \[G\] Lesson 6 Reading on pp. 315–316
 
 \*Start preparing for the Final exam and Interview Test 2 with Particle Exercises and Lessons 4–6 Grammar Summary provided in the {{% resource_link 8a367e2f-3269-222c-f41f-8250db29e62b "Related Resources" %}} section, as well as the Interview Test Study Guide provided in the {{% resource_link 09072135-f776-5beb-c2ef-ad51c0c3180c "Interview Tests" %}} section.
@@ -1375,8 +1375,8 @@ Overall Review
 
 *   Overall Review for Lessons 1–6
 *   Review \[G\] Time Expressions (Days/Weeks/Months/Years) and Time wrods on p. 127 
-*   Review [Counting](http://web.mit.edu/21f.501/www/online_drills_1.html)
-*   Review [Particles](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Counting" %}}
+*   Review {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Particles" %}}
 
 
 {{< tdclose >}}
@@ -1425,9 +1425,9 @@ Final Exam (Lessons 1–6)
 
 Part I (35 minutes)
 
-*   [Listening Comprehension](http://web.mit.edu/21f.501/www/online_drills_1.html) at the beginning of the exam
-*   [Situational Usage](http://web.mit.edu/21f.501/www/online_drills_1.html): use all the Kanji up to Lesson 6.
-*   Grammar: including particles and [conjugations (te-form and adjectives)](http://web.mit.edu/21f.501/www/online_drills_1.html)
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Listening Comprehension" %}} at the beginning of the exam
+*   {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "Situational Usage" %}}: use all the Kanji up to Lesson 6.
+*   Grammar: including particles and {{% resource_link "a44a4fcd-1749-40ae-9ecc-5d676b222949" "conjugations (te-form and adjectives)" %}}
 
 \-Particles (choose one): つくえの上 (a. と b. が c. で d. に ) なに (a. を b. は c. が d. も ) ありますか。
 
