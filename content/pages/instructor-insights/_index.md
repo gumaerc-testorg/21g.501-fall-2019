@@ -44,7 +44,7 @@ None
 - GIR
 - HASS
 - HASS-H
-- 21G.501 is required for a Bachelor’s Degree in Global Languages with a [concentration in Japanese Studies](https://languages.mit.edu/academic-programs/).
+- 21G.501 is required for a Bachelor’s Degree in Global Languages with a {{% resource_link "2b123785-526c-4465-b073-23a6fff501bc" "concentration in Japanese Studies" %}}.
 - 21G.501 counts toward the two years of Japanese studies required for participation in the MISTI-Japan internship program.
 
 ### Offered
